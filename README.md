@@ -9,10 +9,10 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**  
- 🌱 I’m currently learning **Data Science, Neural Networks, Generative AI**  
- 💬 Ask me about **Python, C++, AI/ML, Web Dev... or anything [here](https://github.com/Krishna-Coder-og/Krishna-Coder-og/issues)**  
- ⚡ Fun fact **I love building AI projects that actually solve real problems**
+  <p>🔭 I’m currently working on <strong>Machine Learning and Deep Learning Projects</strong></p>
+  <p>🌱 I’m currently learning <strong>Data Science, Neural Networks, Generative AI</strong></p>
+  <p>💬 Ask me about <strong>Python, C++, AI/ML, Web Dev... or anything <a href="https://github.com/Krishna-Coder-og/Krishna-Coder-og/issues">here</a></strong></p>
+  <p>⚡ Fun fact <strong>I love building AI projects that actually solve real problems</strong></p>
 </div>
  
 <div align="center"> 
